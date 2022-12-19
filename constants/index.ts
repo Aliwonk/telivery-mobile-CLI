@@ -7,7 +7,7 @@ const window = {
 
 const map = {
   mapBoxToken:
-    'pk.eyJ1IjoiYWxpd29uayIsImEiOiJjbGJuemp4MHUwdnluM29sOTB4NDRveDc4In0.ca9oT1Xiheo19LUqkHK8lA',
+    'SECRET TOKEN',
   mapBoxStyleURL: 'mapbox://styles/aliwonk/clbpdn452000014oilhmvewcu',
   centerCoordinates: [94.4424, 51.7197],
 };
